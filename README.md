@@ -9,6 +9,9 @@ https://medium.com/swlh/what-is-google-colab-169d5252e51d
 
 
 
+
+
+
 1. Python Resource--
    https://github.com/wncc/learners-space/tree/master/Python
    
@@ -21,6 +24,8 @@ https://medium.com/swlh/what-is-google-colab-169d5252e51d
   
   1.https://www.youtube.com/watch?v=GA0u6WM7_Eo&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&index=4
   2.https://www.youtube.com/watch?v=wlS_fWxIPyQ&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&index=5
+  
+  
   
   
   
