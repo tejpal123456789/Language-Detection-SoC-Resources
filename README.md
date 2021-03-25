@@ -3,6 +3,11 @@
 
 WEEK --1
 
+Mentees  are advised to create a GitHub account so that u can later create repositories for the our major task language detection to maintain your code & analysis (in the form of ipython notebooks) there.
+I'm not sure if most of you are familiar with Google Colab or not, but if not, it basically allows you to write and execute Python in your browser, with zero configuration required, free access to GPUs & easy sharing. You can find more information about it here: 
+https://medium.com/swlh/what-is-google-colab-169d5252e51d
+
+
 
 1. Python Resource--
    https://github.com/wncc/learners-space/tree/master/Python
