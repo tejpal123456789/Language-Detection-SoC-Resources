@@ -41,7 +41,8 @@ https://medium.com/swlh/what-is-google-colab-169d5252e51d
      As we will use only some basics commands of pandas for our purpose , so i will try to convey about this library by myself. I think that we will be more helpful.
      
      
-Here our week one finish . 
+Here our week 1 finishes . 
+
 Happy Learning .
 
 
