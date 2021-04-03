@@ -51,5 +51,25 @@ WEEK --2:
 
   Machine Learning Algorithmns--
   
+  1. What is Machine Learning and what are different types of machine learning-
+   https://www.youtube.com/watch?v=ukzFI9rgwfU
+   https://www.youtube.com/watch?v=kE5QZ8G_78c
+   
+ 2. Linear Regression-
+  https://www.youtube.com/watch?v=kyFlh5KVZoU
+   
+   Implementation-
+   https://www.youtube.com/watch?v=vsWrXfO3wWw
+   https://www.youtube.com/watch?v=8jazNUpO3lQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=2
+   
+ 3. Logistic Regression-
+  https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
+  
+  Implementation-
+  https://www.youtube.com/watch?v=zM4VZR0px8E&t=767s
+  
+4 Naive Bayes Classifier -
+  
+   
   
   
