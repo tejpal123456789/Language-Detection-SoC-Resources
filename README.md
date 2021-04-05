@@ -70,6 +70,14 @@ WEEK --2:
   
 4 Naive Bayes Classifier -
   
-   
+  Bayes Theorem-
+  https://www.youtube.com/watch?v=71oNiqPoKD8
   
+  Indepth knowledge-
+  https://www.youtube.com/watch?v=jS1CKhALUBQ
+  
+  Implemenation-
+  Take help of this article for implementation part
+  
+  https://www.geeksforgeeks.org/naive-bayes-classifiers/
   
