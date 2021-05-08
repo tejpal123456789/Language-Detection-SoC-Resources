@@ -86,6 +86,7 @@ Happy Learning .
   # Week 3--
 Natural LAnguage Processing-
 Basic Intro 1 - https://builtin.com/data-science/introduction-nlp
+
 Basic Intro 2 - https://datascience.foundation/sciencewhitepaper/natural-language-processing-nlp-simplified-a-step-by-step-guide
 
 Videos for tutorial-
