@@ -1,7 +1,7 @@
 # Language-Detection-SoC-Resources
 
 
-WEEK --1
+# WEEK --1
 
 Mentees  are advised to create a GitHub account so that u can later create repositories for the our major task language detection to maintain your code & analysis (in the form of ipython notebooks) there.
 I'm not sure if most of you are familiar with Google Colab or not, but if not, it basically allows you to write and execute Python in your browser, with zero configuration required, free access to GPUs & easy sharing. You can find more information about it here: 
@@ -47,7 +47,7 @@ Happy Learning .
 
 
 
-WEEK --2:
+# WEEK --2:
 
   Machine Learning Algorithmns--
   
