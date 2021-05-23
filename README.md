@@ -96,3 +96,12 @@ https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
 
 ( * Need to complete only top 10 Videos )
 
+
+
+# Week 4
+
+OPtical Character Recognition
+
+You will need to follow the given playlist (tutorials). Different methods are given in the playlist, try to learn how to use them. For our purpose we will use any one of the method
+
+https://www.youtube.com/watch?v=aELZtpOClWk&list=PLreVlKwe2Z0QKobecSxrheGzrgd4iXJje
