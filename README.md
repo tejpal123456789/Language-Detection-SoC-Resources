@@ -1,3 +1,13 @@
+# Above Code is Code of the project
+# Also provided the data files with it 
+
+
+
+
+
+
+
+
 # Language-Detection-SoC-Resources
 
 
